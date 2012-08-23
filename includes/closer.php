@@ -37,6 +37,7 @@
   
   <script language="javascript">
 	  $(document).foundationNavigation();
+	  $(document).foundationCustomForms();
   </script>
   
 </body>

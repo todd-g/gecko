@@ -35,21 +35,25 @@ $title = "Complete | ";
             
             <div class="row">
                     <div class="two columns">
-                        <img src="images/check_green.png" height="80">
+                        <img src="images/cap_blue.png" height="80">
                     </div>
                     <div class="ten columns">
-                        Blue Cap: Breathify
-                        <h5>GCKO-3849-4773</h5>
+                        GCKO-3849-4773<br>
+
+                       <strong> Blue Cap: Breathify, mornings.</strong>
+                        
                     </div>
                 </div>
-               
+               <hr>
                 <div class="row">
                     <div class="two columns">
-                        <img src="images/check_green.png" height="80">
+                        <img src="images/cap_red.png" height="80">
                     </div>
                     <div class="ten columns">
-                        Red Cap: Airblastix
-                        <h5>GCKO-0049-4233</h5>
+                       
+                        GCKO-0049-4233<br>
+
+                        <strong>Red Cap: Airblastix, as needed.</strong>
                     </div>
                 </div>
         		
@@ -64,16 +68,7 @@ $title = "Complete | ";
 
 			06/07/2002
             
-        	<br>
-<br>
-<strong>Prescription #1</strong><br>
-            Breathify, twice daily<br>
-<br>	
-        	<strong>Prescription #2</strong><br>
-            Airblastix, as needed<br>
-<br>	
-               
-            
+           
         	
         </div>
         
